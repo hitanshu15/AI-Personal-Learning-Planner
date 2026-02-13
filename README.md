@@ -39,7 +39,9 @@ This is a AI Tool which help you to create planning or Roadmap to reach your des
     3) Suggested learning resources
 
 7) Exportable Learning Plan
-.txt
+   
+.txt 
+&
 .md
 
 # 🧯 Error Handling & Reliability
