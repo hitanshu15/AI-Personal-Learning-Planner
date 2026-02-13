@@ -13,7 +13,7 @@ This is a AI Tool which help you to create planning or Roadmap to reach your des
 (Optional but Recommended) Create a Virtual Environment 
 - Recommended Anaconda
 
-# Run code to create a Virtual Environment 
+# Run code into terminal to create a Virtual Environment 
 - conda create -n env python=3.10.10
 
 # Install Required Dependencies 
